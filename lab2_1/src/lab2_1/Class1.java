@@ -2,5 +2,5 @@ package lab2_1;
 
 public class Class1 {
 	//COMMENT 2_1
-	int a=3;
+	int a=1;
 }
